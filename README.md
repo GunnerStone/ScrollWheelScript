@@ -6,6 +6,8 @@ AutoIT script that allows the use of a mouse scrollwheel without actually having
 
 Double click .au3 file to start script
 
+### Hotkeys:
+
 Page Up: Scrolls mousewheel up
 
 Page Down: Scrolls mousewheel down
